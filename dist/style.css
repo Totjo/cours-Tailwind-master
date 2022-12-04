@@ -3587,6 +3587,10 @@ textarea.form-control.is-invalid {
   margin: 1.75rem;
 }
 
+.m-10 {
+  margin: 2.5rem;
+}
+
 .my-7 {
   margin-top: 1.75rem;
   margin-bottom: 1.75rem;
@@ -3595,6 +3599,16 @@ textarea.form-control.is-invalid {
 .mx-auto {
   margin-left: auto;
   margin-right: auto;
+}
+
+.mx-10 {
+  margin-left: 2.5rem;
+  margin-right: 2.5rem;
+}
+
+.my-5 {
+  margin-top: 1.25rem;
+  margin-bottom: 1.25rem;
 }
 
 .mr-2 {
@@ -3834,6 +3848,10 @@ textarea.form-control.is-invalid {
   flex-wrap: wrap;
 }
 
+.place-content-center {
+  place-content: center;
+}
+
 .place-items-center {
   place-items: center;
 }
@@ -3967,6 +3985,10 @@ textarea.form-control.is-invalid {
 
 .text-center {
   text-align: center;
+}
+
+.align-middle {
+  vertical-align: middle;
 }
 
 .font-mono {
