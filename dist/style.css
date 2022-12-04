@@ -3697,6 +3697,10 @@ textarea.form-control.is-invalid {
   height: 100vh;
 }
 
+.h-2\/4 {
+  height: 50%;
+}
+
 .w-full {
   width: 100%;
 }
