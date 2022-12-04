@@ -3729,6 +3729,10 @@ textarea.form-control.is-invalid {
   height: 6rem;
 }
 
+.h-28 {
+  height: 7rem;
+}
+
 .max-h-36 {
   max-height: 9rem;
 }
@@ -3788,6 +3792,10 @@ textarea.form-control.is-invalid {
 
 .w-24 {
   width: 6rem;
+}
+
+.w-28 {
+  width: 7rem;
 }
 
 .grow {
