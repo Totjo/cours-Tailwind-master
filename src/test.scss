@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body {
+    background-color: beige;
+}
+
+
+
+h1 {
+    @apply text-8xl text-green-600;
+  }
